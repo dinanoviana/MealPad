@@ -1,4 +1,4 @@
 # MealPad
 ### [Dicoding Submission] Fundamental Front-end Web Development
 
-##### Webpage for detailed food information
+#### Webpage for detailed food information
